@@ -1,0 +1,2 @@
+parent(kang,sida).
+child(X,Y):-parent(Y,X).
